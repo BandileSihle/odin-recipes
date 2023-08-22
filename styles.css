@@ -1,0 +1,16 @@
+.Heading {
+    text-align: center;
+    background-color: lightgreen;
+    color: red;
+    font-family: "Times New Roman", "DejaVu sans", sans-serif;
+}
+
+
+#List {
+    text-align: center;
+}
+
+.body {
+    text-align: center;
+}
+
