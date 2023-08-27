@@ -1,5 +1,20 @@
 .milk {
-    background-color: bisque;
+    background-color: brown;
+    padding: 8px;
+    color:white
+
+}
+.alter {
+    padding: 24px;
+}
+.headingtart {
+    padding: 8px;
+    background-color: white;
+    margin-right: auto;
+}
+#tartgredients {
+    padding: 8px;
+    text-align: left;
 
 }
 .milkbody {
@@ -9,6 +24,7 @@
 }
 
 .chakalaka {
+
     text-align: center;
     color: brown;
     font-family: sans-serif, "Times New Roman", Arial;
@@ -21,8 +37,35 @@
 }
 
 .Recipe {
-    background-color: bisque;
+    background-color: brown;
+    color: white;
+    padding: 8px;
+}
+#chakgredients {
+    text-align: left;
+    padding: 8px;
+    margin-right: auto;
+
+}
+.headingchak {
+    padding: 8px
+}
+.chakimg {
+    padding: 24px;
 }
 .fishhead {
-    background-color: bisque;
+    background-color: brown;
+    color: white;
+    padding: 8px;
+}
+.fishimg {
+    padding:24px;
+}
+.headingfish {
+    padding: 8px;
+}
+#fishgredients {
+    text-align: left;
+    padding: 8px;
+    margin-right: auto;
 }
